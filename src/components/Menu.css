@@ -1,0 +1,48 @@
+.menu-wrapper {
+  text-align: center;
+  padding: 2rem;
+}
+
+.menu-subheading {
+  font-style: italic;
+  color: #333;
+}
+
+.menu-heading {
+  font-size: 2rem;
+  color: #9e2b36;
+  margin-bottom: 2rem;
+}
+
+.menu-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  justify-items: center;
+}
+
+.menu-item {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.menu-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+.menu-label {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}

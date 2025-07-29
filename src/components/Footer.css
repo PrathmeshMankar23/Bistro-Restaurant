@@ -1,0 +1,87 @@
+footer {
+  margin-top: 4rem;
+  font-family: Arial, sans-serif;
+}
+
+.newsletter-section {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.newsletter-section h3 {
+  color: #b32d3e;
+  font-size: 1.2rem;
+}
+
+.newsletter-form {
+  margin: 20px auto;
+}
+
+.newsletter-form input {
+  padding: 8px 12px;
+  width: 200px;
+  border-radius: 15px 0 0 15px;
+  border: 1px solid #ccc;
+}
+
+.newsletter-form button {
+  padding: 8px 12px;
+  border: none;
+  background-color: #b32d3e;
+  color: white;
+  border-radius: 0 15px 15px 0;
+  cursor: pointer;
+}
+
+.feedback h4 {
+  margin-top: 30px;
+  color: #b32d3e;
+}
+
+.stars {
+  font-size: 1.5rem;
+  color: gold;
+  letter-spacing: 4px;
+  margin-top: 10px;
+}
+
+.main-footer {
+  background-color: #b32d3e;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 40px 20px;
+}
+
+.footer-column {
+  flex: 1;
+  min-width: 200px;
+  margin: 10px;
+}
+
+.footer-column h4 {
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+}
+
+.address .logo {
+  font-size: 1.5 rem;
+  font-weight: bold;
+  color: #b32d3e;
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-right: 100px;
+}
+

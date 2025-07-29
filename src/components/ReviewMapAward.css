@@ -1,0 +1,62 @@
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.review-map-award {
+  text-align: center;
+  margin: 40px auto;
+  max-width: 800px;
+  animation: fadeIn 1s ease-in-out;
+}
+
+.section-title {
+  color: crimson;
+  margin-bottom: 20px;
+}
+
+.review-card {
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.stars {
+  font-size: 1.5rem;
+  color: gold;
+  margin: 10px 0;
+}
+
+.author {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.dots {
+  margin-top: 10px;
+}
+
+.dot {
+  height: 12px;
+  width: 12px;
+  margin: 0 6px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.dot.active {
+  background-color: crimson;
+}
+
+.map-section,
+.award-section {
+  margin-top: 40px;
+}

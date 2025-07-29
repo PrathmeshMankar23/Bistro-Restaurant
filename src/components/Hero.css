@@ -1,0 +1,59 @@
+.hero-section {
+  position: relative;
+  text-align: center;
+}
+
+.hero-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.promo-section {
+  position: relative;
+  bottom: 0px;
+  left: 70%;
+  transform: translateX(-50%);
+  background-color: white;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 50px 50px;
+  border-radius: 12px;
+  box-shadow: 0 0 rgba(0,0,0,0.1);
+}
+
+.promo-img {
+
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.promo-text h2 {
+  margin: 10;
+  font-size: 1.5rem;
+}
+
+.promo-text p {
+   font-family: 'Times New Roman', Times, serif; 
+  margin: 4px 0 0 0;
+  
+}
+
+.para p {
+     font-family: 'Times New Roman', Times, serif;
+     text-align: justify; 
+     font-size: large;
+     color: black;
+}
+
+.map {
+padding-left: 200px;
+
+}
+
+.map :hover {
+    color: red;
+    cursor: pointer;
+}
