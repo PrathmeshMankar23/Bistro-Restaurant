@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Bistro-Restaurant/static/css/main.ee9c10ea.css",
+    "main.js": "/Bistro-Restaurant/static/js/main.53998e57.js",
+    "static/js/453.40816188.chunk.js": "/Bistro-Restaurant/static/js/453.40816188.chunk.js",
+    "static/media/drinks.jpeg": "/Bistro-Restaurant/static/media/drinks.f934bf1c6dbae28a7813.jpeg",
+    "static/media/Reservation.jpg": "/Bistro-Restaurant/static/media/Reservation.7900344922e83e58f9c9.jpg",
+    "static/media/restaurant.jpg": "/Bistro-Restaurant/static/media/restaurant.7900344922e83e58f9c9.jpg",
+    "static/media/tripadvisor.png": "/Bistro-Restaurant/static/media/tripadvisor.0604b664fc9585cc4f56.png",
+    "static/media/breakfast.jpg": "/Bistro-Restaurant/static/media/breakfast.9da84742ab038733c775.jpg",
+    "static/media/coffee (1).jpg": "/Bistro-Restaurant/static/media/coffee (1).c1aec4f185a70b2d4432.jpg",
+    "static/media/coffee.jpg": "/Bistro-Restaurant/static/media/coffee.c1aec4f185a70b2d4432.jpg",
+    "static/media/lunch.jpg": "/Bistro-Restaurant/static/media/lunch.1c8daa56c6625cd416a9.jpg",
+    "static/media/dinner.jpg": "/Bistro-Restaurant/static/media/dinner.f98ed1654d0035b49255.jpg",
+    "static/media/dessert.jpg": "/Bistro-Restaurant/static/media/dessert.d1bca8b8123a8ddef64f.jpg",
+    "index.html": "/Bistro-Restaurant/index.html",
+    "main.ee9c10ea.css.map": "/Bistro-Restaurant/static/css/main.ee9c10ea.css.map",
+    "main.53998e57.js.map": "/Bistro-Restaurant/static/js/main.53998e57.js.map",
+    "453.40816188.chunk.js.map": "/Bistro-Restaurant/static/js/453.40816188.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9c10ea.css",
+    "static/js/main.53998e57.js"
+  ]
+}
